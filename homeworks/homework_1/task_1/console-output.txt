@@ -1,0 +1,24 @@
+scala> var name = "Svyatoslav"
+name: String = Svyatoslav
+
+scala> println(s"Hello Scala! This is $name")
+Hello Scala! This is Svyatoslav
+
+scala> println(s"Hola! This is $name")
+Hola! This is Svyatoslav
+
+scala> println(s"Hi! This is $name")
+Hi! This is Svyatoslav
+
+scala> var reversed = name.reverse
+reversed: String = valsotayvS
+
+scala> println(s"Hello Scala! This is $reversed")
+Hello Scala! This is valsotayvS
+
+scala> println(s"Hi! This is $reversed")
+Hi! This is valsotayvS
+
+scala>
+
+
